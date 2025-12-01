@@ -1,0 +1,347 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "type": "audio-reference",
+  "roles": [
+    "timecode",
+    "text-reference"
+  ],
+  "groups": [
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_001.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_002.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_003.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_004.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_005.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_006.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_007.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_008.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_009.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_010.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_011.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_012.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_013.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_014.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_015.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_016.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_017.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_018.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_019.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_020.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_021.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_022.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_023.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_024.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_025.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_026.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_027.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ENG/WEB/audio/mp3/ENG_WEB_45_028.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    }
+  ]
+}
